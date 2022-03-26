@@ -1,0 +1,18 @@
+ *{
+     background-image:url(.img/sumon.jpg)
+ }
+ .my-ul-style{
+     margin-left: auto;
+ }
+ .my-li-style:hover{
+    background-color: red;
+    text-decoration: underline;
+ }
+ .row a{
+    color: white;
+    margin: 0 7px;
+ }
+ .row a:hover{
+     color: black;
+ }
+  
